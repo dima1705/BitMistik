@@ -1,0 +1,5 @@
+android/local.properties
+android/gradle.properties
+lib/backend/bepaid/
+lib/itog/balans/bepaid_checkout/
+firebase/functions/bepaid.js

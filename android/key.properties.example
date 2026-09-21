@@ -1,0 +1,11 @@
+# Copy to android/key.properties (gitignored).
+# FlutterFlow: Settings → App Details → Android → Download keystore.
+# Place the .jks file in android/ and set storeFile + keyAlias below.
+
+storePassword=YOUR_STORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=bit-app-test-js8wpx
+storeFile=bit-app-test-js8wpx-keystore.jks
+
+# Optional: Google Maps (also supported in android/local.properties)
+# MAPS_API_KEY=YOUR_ANDROID_MAPS_API_KEY

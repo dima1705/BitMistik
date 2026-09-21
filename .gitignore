@@ -1,0 +1,62 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+*.log
+
+# Android signing secrets — do not commit
+android/key.properties
+android/*.jks
+android/*.keystore
+*.jks
+*.keystore
+*.p12
+
+# Env / local secrets
+.env
+.env.*
+!.env.example
+**/secrets.json
+**/service-account*.json
+**/firebase-adminsdk*.json
+
+# Node
+node_modules/
+firebase/functions/node_modules/
+
+# Platform build junk
+android/.gradle/
+android/local.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# Misc local / debug artifacts
+debug_*.png
+debug_*.xml
+_*.txt
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.atom/
+.history

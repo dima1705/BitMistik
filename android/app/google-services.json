@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "339658680310",
+    "project_id": "bitmystic-1",
+    "storage_bucket": "bitmystic-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339658680310:android:87d6b39f58632c247509d7",
+        "android_client_info": {
+          "package_name": "com.bitMystic.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339658680310-lrj7p060o4vv6r43ritg99ovba3alibj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUvkXY1s4TrY_9lTfxoqHAVOplxD9sG9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339658680310-lrj7p060o4vv6r43ritg99ovba3alibj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339658680310-pmvton04bfi7gdecmp0uv4ibrh8i7l2b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitMystic.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
